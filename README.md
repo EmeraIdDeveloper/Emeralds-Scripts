@@ -1,5 +1,7 @@
-Hello. 
+# TheEmeraIdDev Private Script Repo.
 
-If you are reading this, you have been whitelisted to edit private and/or main game scripts. 
+## Hello. 
 
-For further information, please contact [TheEmeraIdDev on roblox](https://www.roblox.com/users/407480830/profile) .
+#### If you are reading this, you have been whitelisted to edit private and/or main game scripts. 
+
+#### For further information, please contact [TheEmeraIdDev on ROBLOX](https://www.roblox.com/users/407480830/profile).
